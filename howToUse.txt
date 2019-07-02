@@ -1,0 +1,1 @@
+Run the file LeBolsa3, to create a B Tree and search later for a specific key. The Nis column from Bolsa2.csv file is the key.
